@@ -26,10 +26,15 @@ HOW IT WORKS?
 As you run the program  you are given 5 options:
 
 1.Insert a student
+
 2.Display a group.
+
 3.Unsubscribe a student.
+
 4.Sort.
+
 5.Display the students of all the groups.
+
  OPTION ONE:
 --------------------------------------------------------------
 
