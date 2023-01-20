@@ -1,0 +1,5 @@
+Elena Maria Yoncheva 10 Algebra 6 Descretes 5 Calculus 3 English 6 Programming 5
+Dimitar Todorov Todorov 11 Algebra 5 Descretes 5 Calculus 3 English 6 Programming 5
+Radoslav Radoslavov Radoslavov 12 Algebra 6 Descretes 6 Calculus 6 English 6 Programming 5
+Krastio Vasilev Vasiliev 13 Algebra 5 Descretes 5 Calculus 5 English 5 Programming 5
+Stefan Emil Stefanov 14 Algebra 6 Descretes 2 Calculus 6 English 6 Programming 5

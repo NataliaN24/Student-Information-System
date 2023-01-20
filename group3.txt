@@ -1,0 +1,5 @@
+Angel Blagoev Bogdnaov 20 Algebra 6 Descretes 6 Calculus 6 English 6 Programming 6
+Nikolai Borisov Borisov 21 Algebra 3 Descretes 4 Calculus 4 English 3 Programming 3
+Bisera Boteva Boteva 22 Algebra 4 Descretes 6 Calculus 6 English 6 Programming 5
+Rosa Taneva Aleksandrova 23 Algebra 5 Descretes 6 Calculus 5 English 5 Programming 5
+Daniel Penkov Penkovov 24 Algebra 3 Descretes 2 Calculus 6 English 5 Programming 5

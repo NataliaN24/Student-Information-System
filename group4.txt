@@ -1,0 +1,4 @@
+Assen Filipov Filipov 29 Algebra 6 Descretes 2 Calculus 6 English 6 Programming 5
+Dimitar Dimchov Aleksandrov 27 Algebra 6 Descretes 6 Calculus 6 English 6 Programming 5
+Antonio Antonev Antonovov 26 Algebra 4 Descretes 4 Calculus 3 English 6 Programming 5
+Gabriela Yordanova Dacheva 25 Algebra 6 Descretes 3 Calculus 3 English 3 Programming 5

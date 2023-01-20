@@ -1,0 +1,5 @@
+Veselina Vesela Assenova 15 Algebra 6 Descretes 5 Calculus 3 English 6 Programming 5
+Grozdana Grozdanova Dimitrova 16 Algebra 5 Descretes 2 Calculus 3 English 6 Programming 3
+Zlaten Petrov Petrov 17 Algebra 3 Descretes 6 Calculus 6 English 6 Programming 5
+Milen Lyobenov Bakalov 18 Algebra 3 Descretes 6 Calculus 5 English 5 Programming 5
+Daniel Miroslavov Iliev 19 Algebra 4 Descretes 5 Calculus 6 English 6 Programming 3
