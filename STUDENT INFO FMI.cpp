@@ -4,9 +4,6 @@
 * Introduction to programming course
 * Faculty of Mathematics and Informatics of Sofia University
 * Winter semester 2022/2023
-*
-* @author Natalia Nakollofski
-* @idnumber 1MI8000034
 * @compiler  VC
 *
 * * file with helper functions for maintaining datas for students 
